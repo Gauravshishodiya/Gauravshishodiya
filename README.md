@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gauravshishodiya
-- 👀 I’m interested in Coding in C and python
-- 🌱 I’m currently learning B-Tech
+- 👀 I’m interested in Coding in  python, machine learning and artificial intelligence , full stack development
+- 🌱 I’m currently learning B-Tech in final year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
